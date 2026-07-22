@@ -249,40 +249,15 @@ A CNN-based diagnostic model classifying 18 medical conditions from chest X-ray 
 
 ---
 
-### 🟣 Current Focus
-
-```yaml
-learning:
-  - Machine Learning Theory & Optimization Algorithms
-  - Applied Linear Algebra in Neural Networks
-  - Number Theory & String Theory (mathematical foundations)
-
-building:
-  - Multi-model AI observability and anomaly detection systems
-  - Behavioral and clinical-signal ML pipelines
-
-exploring:
-  - Blockchain-backed audit systems for safety-critical logging
-  - Research-grade applications of applied mathematics to ML
-
-open_to:
-  - Research internships in Applied AI & Computational Sciences
-  - Collaborative ML systems projects
-```
-
----
-
 ### 🟣 Connect
 
-[![Gmail](https://img.shields.io/badge/Gmail-pavitra.jain054%40gmail.com-4F46E5?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e)](mailto:pavitrajain054@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-pavitrajain054%40gmail.com-4F46E5?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e)](mailto:pavitrajain054@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-pavitra--jain-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e)](https://www.linkedin.com/in/pavitra-jain-1aa96a33a/)
 [![GitHub](https://img.shields.io/badge/GitHub-pavitragit09-7C3AED?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e)](https://github.com/pavitragit09)
 
 ---
 
 <div align="center">
-
-*"Between rigorous mathematics and real-world systems, I build the bridge."*
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer)
 
